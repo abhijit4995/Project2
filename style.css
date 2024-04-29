@@ -56,3 +56,18 @@ body{
     font-size: 60px;
     color: blueviolet;
 }
+
+.navbar{
+    background-color: blue;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.menu ul{
+    display: flex;
+    gap: 12px;
+    list-style: none;
+    color: white;
+}
